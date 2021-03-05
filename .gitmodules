@@ -18,7 +18,7 @@
 	url = https://github.com/leetal/ios-cmake.git
 [submodule "Dependencies/xr/Dependencies/OpenXR-SDK"]
 	path = Dependencies/xr/Dependencies/OpenXR-SDK
-	url = https://github.com/KhronosGroup/OpenXR-SDK
+	url = https://github.com/KhronosGroup/OpenXR-SDK-Source
 [submodule "Dependencies/xr/Dependencies/arcore-android-sdk"]
 	path = Dependencies/xr/Dependencies/arcore-android-sdk
 	url = https://github.com/google-ar/arcore-android-sdk
